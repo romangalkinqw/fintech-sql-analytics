@@ -1,26 +1,14 @@
-﻿# Данные (не храним в Git)
-data/
+﻿data/
 *.csv
 *.xlsx
 *.xls
-
-# Системные файлы Windows
 Thumbs.db
 desktop.ini
 .BIN/
-
-# VS Code
 .vscode/
 *.code-workspace
-
-# Временные файлы
 *.log
 *.tmp
 *.cache
 *.bak
 
-# Python (если будешь использовать)
-__pycache__/
-*.pyc
-.env
-venv/
